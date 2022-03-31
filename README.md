@@ -1,2 +1,2 @@
 # Sorting-algorithm-contest
-my tim sort algorithm and merging sort algorithm in C
+Tim sort algorithm and merging sort algorithm in C
