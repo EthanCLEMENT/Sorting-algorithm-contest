@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <time.h>
-const int RUN = 32;
+const int RUN = 32; // divide array into blocks if array is less than run then -> insertion sort else -> mergesort
 
 int min(int num1, int num2) {
     return (num1 > num2 ) ? num2 : num1;
